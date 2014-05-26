@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10d773fc-c78c-40e0-a6b4-aef6953ad4f6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.yaml" afterPath="$PROJECT_DIR$/app.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/stylesheets/main.css" afterPath="$PROJECT_DIR$/static/stylesheets/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/shop.jpg" afterPath="$PROJECT_DIR$/static/images/shop2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/shop2.jpg" afterPath="$PROJECT_DIR$/static/images/shop.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="feras.iws" />
@@ -70,8 +70,8 @@
       <file leaf-file-name="app.yaml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.02377179" vertical-offset="0" max-vertical-offset="631">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.07131537" vertical-offset="0" max-vertical-offset="631">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -673,7 +673,8 @@
     <MESSAGE value="more updates" />
     <MESSAGE value="adding pic's menus,food" />
     <MESSAGE value="adding contact and resizing home screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding contact and resizing home screen" />
+    <MESSAGE value="tweaked main pic and renamed some jpg's" />
+    <option name="LAST_COMMIT_MESSAGE" value="tweaked main pic and renamed some jpg's" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -919,8 +920,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02377179" vertical-offset="0" max-vertical-offset="631">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.07131537" vertical-offset="0" max-vertical-offset="631">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding />
         </state>
       </provider>

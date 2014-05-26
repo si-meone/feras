@@ -6,7 +6,7 @@ body { background:#4a2510; font-size: 13px; color: white; font-family: Arial, he
 ol, ul { list-style: none; margin: 0;}
 ul li { margin: 0; padding: 0;}
 h1 { margin-bottom: 10px; color: gold;}
-a, img { outline: none; border:none; color: #000; font-weight: bold; text-transform: uppercase;}
+a, img { outline: none; border:none; color: red; font-size: 20px;font-weight: bold; text-transform: uppercase;}
 p { margin: 0 0 10px; line-height: 1.4em; font-size: 1.2em;}
 img { display: block; margin-bottom: 10px;}
 aside { font-style: italic; font-size: 0.9em;}
@@ -47,7 +47,7 @@ header h1 {
 /* Nav */
 header nav {
 	float: right;
-	margin-top: 40px; 
+	margin-top: 20px;
 	}
 	
 	header nav li {
@@ -65,16 +65,46 @@ header nav {
 /* Banner */			
 #banner {
 	float: left;
-	margin-bottom: 15px;
-	width: 100%;
+	margin-left: 30px;
+	width: 200%;
 	}
 
 	#banner img {
         margin-left: auto;
         margin-right: auto;
-		width: 35%;
+		width: 20%;
 		}
+/* Shop pic */
+#shop img {
+    display: inline-block;
+    text-align:center;
+    float: left;
+    padding: 20px;
+    margin-top: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
 
+#food img {
+    text-align:center;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+#menu img {
+    transform:rotate(90deg);
+    -ms-transform:rotate(90deg); /* IE 9 */
+    -webkit-transform:rotate(90deg); /* Opera, Chrome, and Safari */
+    text-align:center;
+    padding: 40px;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
 
 /* Media Queries */
 @media screen and (max-width: 480px) {
